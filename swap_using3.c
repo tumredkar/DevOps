@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+/*Some changes*/
 void main()
 {
 	int a=5,b=10,c=0;
